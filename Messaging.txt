@@ -1,3 +1,3 @@
 
 
-Messaging section.
+This is the Messaging file and it contains the git  particular code.

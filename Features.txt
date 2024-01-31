@@ -1,5 +1,7 @@
 
 
-this is features of phone calling
+This file will contain the feautres.
 
-messaging
+1. Calling
+
+2. Messaging
