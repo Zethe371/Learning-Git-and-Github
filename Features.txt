@@ -7,3 +7,5 @@ This file will contain the feautres.
 2. Messaging
 
 3. Internet
+
+4. calculator
